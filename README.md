@@ -31,14 +31,12 @@
 
 ## Projects
 
-List of projects that using *semicolonless* style and related (discussion issue, coding-style document).
+List of projects that using *semicolonless* style and related.
 
 * [npm](https://github.com/npm/npm)
   * [npm-coding-style](https://docs.npmjs.com/misc/coding-style)
 * [Vue.js](https://github.com/vuejs/vue)
-  * [#1132 Lost semi-colon in Vue.js source code](https://github.com/vuejs/vue/issues/1132)
 * [redux](https://github.com/reactjs/redux)
-  * [#1509 Where is repo for eslint-config-rackt exists now?](https://github.com/reactjs/redux/issues/1509)
 * [react-media](https://github.com/ReactTraining/react-media)
 * [react-router](https://github.com/ReactTraining/react-router)
 * [recompose](https://github.com/acdlite/recompose)
@@ -50,6 +48,11 @@ List of projects that using *semicolonless* style and related (discussion issue,
 * [glamor](https://github.com/threepointone/glamor)
 * [Riot](https://github.com/riot/riot)
 * [stylelint](https://github.com/stylelint/stylelint)
+
+### Discussion
+
+* [Vue.js #1132 Lost semi-colon in Vue.js source code](https://github.com/vuejs/vue/issues/1132)  
+* [redux #1509 Where is repo for eslint-config-rackt exists now?]((https://github.com/reactjs/redux/issues/1509)
 
 ## License
 
