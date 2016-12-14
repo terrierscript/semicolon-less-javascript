@@ -51,8 +51,8 @@ List of projects that using *semicolonless* style and related.
 
 ### Discussion
 
-* [Vue.js #1132 Lost semi-colon in Vue.js source code](https://github.com/vuejs/vue/issues/1132)  
-* [redux #1509 Where is repo for eslint-config-rackt exists now?]((https://github.com/reactjs/redux/issues/1509)
+* [Vue.js #1132 - Lost semi-colon in Vue.js source code](https://github.com/vuejs/vue/issues/1132)  
+* [redux #1509 - Where is repo for eslint-config-rackt exists now?](https://github.com/reactjs/redux/issues/1509)
 
 ## License
 
