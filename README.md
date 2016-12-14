@@ -33,20 +33,27 @@
 
 List of projects that using *semicolonless* style and related.
 
+* [choo](https://github.com/yoshuawuyts/choo)
+* [data-fns](https://github.com/date-fns/date-fns)
+* [deku](https://github.com/anthonyshort/deku)
 * [glamor](https://github.com/threepointone/glamor)
 * [history](https://github.com/mjackson/history)
 * [next.js](https://github.com/zeit/next.js)
 * [npm](https://github.com/npm/npm)
-  * [npm-coding-style](https://docs.npmjs.com/misc/coding-style)
+  * [npm-coding-style - npm's "funny" coding style](https://docs.npmjs.com/misc/coding-style)
 * [react-form](https://github.com/tannerlinsley/react-form)
 * [react-media](https://github.com/ReactTraining/react-media)
 * [react-router](https://github.com/ReactTraining/react-router)
+* [react-virtualized](https://github.com/bvaughn/react-virtualized)
 * [recompose](https://github.com/acdlite/recompose)
 * [redux](https://github.com/reactjs/redux)
 * [redux-saga](https://github.com/yelouafi/redux-saga)
 * [request](https://github.com/request/request)
+* [reselect](https://github.com/reactjs/reselect)
 * [Riot](https://github.com/riot/riot)
+* [slate](https://github.com/ianstormtaylor/slate)
 * [stylelint](https://github.com/stylelint/stylelint)
+* [styled-components](https://github.com/styled-components/styled-components)
 * [Twitter Bootstrap](https://github.com/twbs/bootstrap)
 * [Vue.js](https://github.com/vuejs/vue)
 
