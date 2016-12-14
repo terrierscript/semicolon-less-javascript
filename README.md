@@ -33,21 +33,22 @@
 
 List of projects that using *semicolonless* style and related.
 
+* [glamor](https://github.com/threepointone/glamor)
+* [history](https://github.com/mjackson/history)
+* [next.js](https://github.com/zeit/next.js)
 * [npm](https://github.com/npm/npm)
   * [npm-coding-style](https://docs.npmjs.com/misc/coding-style)
-* [Vue.js](https://github.com/vuejs/vue)
-* [redux](https://github.com/reactjs/redux)
+* [react-form](https://github.com/tannerlinsley/react-form)
 * [react-media](https://github.com/ReactTraining/react-media)
 * [react-router](https://github.com/ReactTraining/react-router)
 * [recompose](https://github.com/acdlite/recompose)
-* [history](https://github.com/mjackson/history)
-* [next.js](https://github.com/zeit/next.js)
-* [Twitter Bootstrap](https://github.com/twbs/bootstrap)
-* [react-form](https://github.com/tannerlinsley/react-form)
+* [redux](https://github.com/reactjs/redux)
 * [redux-saga](https://github.com/yelouafi/redux-saga)
-* [glamor](https://github.com/threepointone/glamor)
+* [request](https://github.com/request/request)
 * [Riot](https://github.com/riot/riot)
 * [stylelint](https://github.com/stylelint/stylelint)
+* [Twitter Bootstrap](https://github.com/twbs/bootstrap)
+* [Vue.js](https://github.com/vuejs/vue)
 
 ### Discussion
 
