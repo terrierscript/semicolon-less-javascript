@@ -33,6 +33,7 @@
 
 List of projects that using *semicolonless* style and related.
 
+* [acorn](https://github.com/ternjs/acorn)
 * [choo](https://github.com/yoshuawuyts/choo)
 * [data-fns](https://github.com/date-fns/date-fns)
 * [deku](https://github.com/anthonyshort/deku)
