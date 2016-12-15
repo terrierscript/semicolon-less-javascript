@@ -31,7 +31,7 @@
 
 ## Projects
 
-List of projects that using *semicolonless* style and related.
+List of projects that using *semicolonless* style and related documents (style guide / pull request / issue).
 
 * [acorn](https://github.com/ternjs/acorn)
 * [choo](https://github.com/yoshuawuyts/choo)
@@ -48,6 +48,7 @@ List of projects that using *semicolonless* style and related.
 * [react-virtualized](https://github.com/bvaughn/react-virtualized)
 * [recompose](https://github.com/acdlite/recompose)
 * [redux](https://github.com/reactjs/redux)
+  * [#1509 - Where is repo for eslint-config-rackt exists now?](https://github.com/reactjs/redux/issues/1509)
 * [redux-saga](https://github.com/yelouafi/redux-saga)
 * [request](https://github.com/request/request)
 * [reselect](https://github.com/reactjs/reselect)
@@ -57,11 +58,7 @@ List of projects that using *semicolonless* style and related.
 * [styled-components](https://github.com/styled-components/styled-components)
 * [Twitter Bootstrap](https://github.com/twbs/bootstrap)
 * [Vue.js](https://github.com/vuejs/vue)
-
-### Discussion
-
-* [Vue.js #1132 - Lost semi-colon in Vue.js source code](https://github.com/vuejs/vue/issues/1132)  
-* [redux #1509 - Where is repo for eslint-config-rackt exists now?](https://github.com/reactjs/redux/issues/1509)
+  * [#1132 - Lost semi-colon in Vue.js source code](https://github.com/vuejs/vue/issues/1132)  
 
 ## License
 
