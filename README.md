@@ -9,6 +9,7 @@
 * [Semicolons in JavaScript are optional](http://mislav.net/2010/05/semicolons/)
 * [JavaScript Semicolon Insertion Everything you need to know](http://inimino.org/~inimino/blog/javascript_semicolons)
 * [ECMAScript® 2016 Language Specification - Automatic Semicolon Insertion](https://www.ecma-international.org/ecma-262/7.0/#sec-automatic-semicolon-insertion)
+* [JavaScript の ; を省略する派](http://2012.8-p.info/japanese/3/9/semicolon) (Japanese)
 
 ### Slides
 
