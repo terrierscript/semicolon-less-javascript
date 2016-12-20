@@ -1,6 +1,21 @@
 # Semicolonless JavaScript Style (Anti-Semicolon) 
 > A list of resources for *semicolonless* JavaScript coding style.
 
+## Quick Start (How do we start semicolonless style ?)
+
+1. Install [`eslint`](https://eslint.org/doc)
+  * `$ npm install -D eslint`
+2. Append rule `semi` and `no-unexpected-multiline`
+
+```js
+{
+  "rules": {
+    "semi": [2, "never"],
+    "no-unexpected-multiline": 2
+  }
+}
+```
+
 ## Documentation
 
 ### Articles
