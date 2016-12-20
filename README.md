@@ -34,6 +34,12 @@
 * JSHint
   * [options - asi](http://jshint.com/docs/options/#asi)
 
+### MISC (maybe joke tools)
+
+* [semicolons](https://github.com/isaacs/semicolons)
+* [semi](https://github.com/yyx990803/semi)
+* [semicolon-js](https://github.com/dchest/semicolon-js)
+
 ## Projects
 
 List of projects that using *semicolonless* style and related documents (style guide / pull request / issue).
