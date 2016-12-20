@@ -20,14 +20,17 @@
 
 ## Tools
 
-### ESLint rule & config
+### Linting
 
-* Rules
-  * [semi](http://eslint.org/docs/rules/semi)
-  * [no-unexpected-multiline](http://eslint.org/docs/rules/no-unexpected-multiline)
-* Config
-  * [eslint-config-standard](https://github.com/feross/eslint-config-standard)
-    * [awesome-standard](https://github.com/feross/awesome-standard)
+* ESLint
+  * Rules
+    * [semi](http://eslint.org/docs/rules/semi)
+    * [no-unexpected-multiline](http://eslint.org/docs/rules/no-unexpected-multiline)
+  * Config
+    * [eslint-config-standard](https://github.com/feross/eslint-config-standard)
+      * [awesome-standard](https://github.com/feross/awesome-standard) - List of standard style
+* JSHint
+  * [options - asi](http://jshint.com/docs/options/#asi)
 
 ## Projects
 
