@@ -11,6 +11,7 @@
 * [ECMAScript® 2016 Language Specification - Automatic Semicolon Insertion](https://www.ecma-international.org/ecma-262/7.0/#sec-automatic-semicolon-insertion)
 * [JavaScript の ; を省略する派](http://2012.8-p.info/japanese/3/9/semicolon) (Japanese)
 * [Semicolons in JavaScript: A preference](https://medium.com/@kentcdodds/semicolons-in-javascript-a-preference-dd8fc8b80895)
+* [No, you don’t need semicolons](https://medium.com/@goatslacker/no-you-dont-need-semicolons-148d936b9cf2)
 
 ### Slides
 
