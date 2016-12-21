@@ -50,6 +50,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [npm](https://github.com/npm/npm)
   * [npm-coding-style - npm's "funny" coding style](https://docs.npmjs.com/misc/coding-style)
 * [path-to-regexp](https://github.com/pillarjs/path-to-regexp)
+* [optimize-js](https://github.com/nolanlawson/optimize-js)
 * [react-fix-it](https://github.com/MicheleBertoli/react-fix-it)
 * [react-form](https://github.com/tannerlinsley/react-form)
 * [react-media](https://github.com/ReactTraining/react-media)
@@ -68,6 +69,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [Twitter Bootstrap](https://github.com/twbs/bootstrap)
 * [Vue.js](https://github.com/vuejs/vue)
   * [#1132 - Lost semi-colon in Vue.js source code](https://github.com/vuejs/vue/issues/1132)  
+* [weex](https://github.com/alibaba/weex)
 
 ## License
 
