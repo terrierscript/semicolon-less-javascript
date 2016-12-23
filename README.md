@@ -46,6 +46,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [glamor](https://github.com/threepointone/glamor)
 * [history](https://github.com/mjackson/history)
 * [karma](https://github.com/karma-runner/karma)
+* [most](https://github.com/cujojs/most)
 * [next.js](https://github.com/zeit/next.js)
 * [npm](https://github.com/npm/npm)
   * [npm-coding-style - npm's "funny" coding style](https://docs.npmjs.com/misc/coding-style)
