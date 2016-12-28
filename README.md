@@ -33,6 +33,8 @@
   * Config
     * [eslint-config-standard](https://github.com/feross/eslint-config-standard)
       * [awesome-standard](https://github.com/feross/awesome-standard) - List of standard style
+    * [eslint-config-vue](https://github.com/vuejs/eslint-config-vue)
+    * [@most/eslint-config-most](https://github.com/mostjs/eslint-config-most)
 * JSHint
   * [options - asi](http://jshint.com/docs/options/#asi)
 
