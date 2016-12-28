@@ -48,6 +48,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [deku](https://github.com/anthonyshort/deku)
 * [envify](https://github.com/hughsk/envify)
 * [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
+* [fs-extra](https://github.com/jprichardson/node-fs-extra)
 * [glamor](https://github.com/threepointone/glamor)
 * [history](https://github.com/mjackson/history)
 * [karma](https://github.com/karma-runner/karma)
