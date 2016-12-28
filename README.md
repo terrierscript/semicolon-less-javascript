@@ -46,6 +46,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [choo](https://github.com/yoshuawuyts/choo)
 * [data-fns](https://github.com/date-fns/date-fns)
 * [deku](https://github.com/anthonyshort/deku)
+* [dotenv](https://github.com/motdotla/dotenv)
 * [envify](https://github.com/hughsk/envify)
 * [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
 * [fs-extra](https://github.com/jprichardson/node-fs-extra)
