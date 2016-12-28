@@ -50,6 +50,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [next.js](https://github.com/zeit/next.js)
 * [npm](https://github.com/npm/npm)
   * [npm-coding-style - npm's "funny" coding style](https://docs.npmjs.com/misc/coding-style)
+* [nyc](https://github.com/istanbuljs/nyc)
 * [path-to-regexp](https://github.com/pillarjs/path-to-regexp)
 * [optimize-js](https://github.com/nolanlawson/optimize-js)
 * [react-fix-it](https://github.com/MicheleBertoli/react-fix-it)
