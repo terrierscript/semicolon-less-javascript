@@ -58,6 +58,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [node-tap](https://github.com/tapjs/node-tap)
 * [npm](https://github.com/npm/npm)
   * [npm-coding-style - npm's "funny" coding style](https://docs.npmjs.com/misc/coding-style)
+* [NuclearJS](https://github.com/optimizely/nuclear-js)
 * [nyc](https://github.com/istanbuljs/nyc)
 * [path-to-regexp](https://github.com/pillarjs/path-to-regexp)
 * [optimize-js](https://github.com/nolanlawson/optimize-js)
