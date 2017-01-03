@@ -83,6 +83,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [Twitter Bootstrap](https://github.com/twbs/bootstrap)
 * [Vue.js](https://github.com/vuejs/vue)
   * [#1132 - Lost semi-colon in Vue.js source code](https://github.com/vuejs/vue/issues/1132)  
+  * [Semicolon-less code - My thoughts](https://forum.vuejs.org/t/semicolon-less-code-my-thoughts/4229)
 * [weex](https://github.com/alibaba/weex)
 * [xtend](https://github.com/Raynos/xtend)
 * [yaml](https://github.com/tj/js-yaml)
