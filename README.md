@@ -9,7 +9,6 @@
 * [Semicolons in JavaScript are optional](http://mislav.net/2010/05/semicolons/)
 * [JavaScript Semicolon Insertion Everything you need to know](http://inimino.org/~inimino/blog/javascript_semicolons)
 * [ECMAScript® 2016 Language Specification - Automatic Semicolon Insertion](https://www.ecma-international.org/ecma-262/7.0/#sec-automatic-semicolon-insertion)
-* [JavaScript の ; を省略する派](http://2012.8-p.info/japanese/3/9/semicolon) (Japanese)
 * [Semicolons in JavaScript: A preference](https://medium.com/@kentcdodds/semicolons-in-javascript-a-preference-dd8fc8b80895)
 * [No, you don’t need semicolons](https://medium.com/@goatslacker/no-you-dont-need-semicolons-148d936b9cf2)
 * [JavaScript Standard Style - Helpful reading](http://standardjs.com/rules.html#helpful-reading)
@@ -21,6 +20,7 @@
 ### Videos
 
 * [Are Semicolons Necessary in JavaScript?](https://www.youtube.com/watch?v=gsfbh17Ax9I)
+* [Semicolons cannot save you! - FunFunFunction #9](https://www.youtube.com/watch?v=Qlr-FGbhKaI)
 
 ## Tools
 
@@ -53,8 +53,11 @@ List of projects that using *semicolonless* style and related documents (style g
 * [choo](https://github.com/yoshuawuyts/choo)
 * [data-fns](https://github.com/date-fns/date-fns)
 * [deku](https://github.com/anthonyshort/deku)
+* [dotenv](https://github.com/motdotla/dotenv)
 * [envify](https://github.com/hughsk/envify)
 * [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
+* [expect](https://github.com/mjackson/expect)
+* [fs-extra](https://github.com/jprichardson/node-fs-extra)
 * [glamor](https://github.com/threepointone/glamor)
 * [history](https://github.com/mjackson/history)
 * [karma](https://github.com/karma-runner/karma)
@@ -63,6 +66,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [node-tap](https://github.com/tapjs/node-tap)
 * [npm](https://github.com/npm/npm)
   * [npm-coding-style - npm's "funny" coding style](https://docs.npmjs.com/misc/coding-style)
+* [NuclearJS](https://github.com/optimizely/nuclear-js)
 * [nyc](https://github.com/istanbuljs/nyc)
 * [path-to-regexp](https://github.com/pillarjs/path-to-regexp)
 * [optimize-js](https://github.com/nolanlawson/optimize-js)
@@ -88,6 +92,7 @@ List of projects that using *semicolonless* style and related documents (style g
   * [#1132 - Lost semi-colon in Vue.js source code](https://github.com/vuejs/vue/issues/1132)  
 * [weex](https://github.com/alibaba/weex)
 * [xtend](https://github.com/Raynos/xtend)
+* [yaml](https://github.com/tj/js-yaml)
 
 ## License
 
