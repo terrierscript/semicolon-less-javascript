@@ -1,4 +1,4 @@
-# Semicolonless JavaScript Style (Anti-Semicolon) 
+# Semicolonless JavaScript Style (Anti-Semicolon)
 > A list of resources for *semicolonless* JavaScript coding style.
 
 ## Documentation
@@ -87,6 +87,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [weex](https://github.com/alibaba/weex)
 * [xtend](https://github.com/Raynos/xtend)
 * [yaml](https://github.com/tj/js-yaml)
+* [yo-yo](https://github.com/maxogden/yo-yo)
 
 ## License
 
