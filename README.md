@@ -1,6 +1,6 @@
-# Awesome Semicolonless JavaScript Style (Anti-Semicolon) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+# Awesome Semicolonless JavaScript Style [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-> A list of resources for *semicolonless* JavaScript coding style.
+> A list of resources for **semicolonless ** JavaScript coding style.
 
 ## Contents
 
