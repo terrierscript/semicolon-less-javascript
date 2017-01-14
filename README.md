@@ -1,6 +1,12 @@
 # Semicolonless JavaScript Style (Anti-Semicolon)
 > A list of resources for *semicolonless* JavaScript coding style.
 
+## Contents
+
+* [Documentation](#documentation)
+* [Tools](#tools)
+* [Projects](#projects)
+
 ## Documentation
 
 ### Articles
