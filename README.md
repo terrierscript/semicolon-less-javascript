@@ -43,6 +43,7 @@
 List of projects that using *semicolonless* style and related documents (style guide / pull request / issue).
 
 * [acorn](https://github.com/ternjs/acorn)
+* [backpack](https://github.com/palmerhq/backpack)
 * [choo](https://github.com/yoshuawuyts/choo)
 * [data-fns](https://github.com/date-fns/date-fns)
 * [deku](https://github.com/anthonyshort/deku)
