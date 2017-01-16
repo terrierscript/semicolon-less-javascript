@@ -1,6 +1,9 @@
+
 # Semicolon-less JavaScript
 
 > A list of resources for **semicolon-less** JavaScript coding style.
+
+![semi-never](./header.svg?b)
 
 ## Contents
 
