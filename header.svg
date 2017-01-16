@@ -1,5 +1,5 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="50">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="160">
   <style type="text/css"><![CDATA[
   text{
     font-family:Consolas, "Liberation Mono", Menlo, Courier, monospace;
@@ -7,7 +7,7 @@
   }
   ]]></style>
 
-<text x="0" y="40" fill="#333">
+<text x="0" y="80" fill="#333">
     <tspan fill="">semi</tspan><tspan fill="#a71d5d">:</tspan>
     [
       <tspan fill="#0086b3">2</tspan>,
