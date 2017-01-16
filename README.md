@@ -3,7 +3,7 @@
 
 > A list of resources for **semicolon-less** JavaScript coding style.
 
-![semi-never](./header.svg?b)
+![semi-never](https://inuscript.github.io/semicolon-less-javascript/header.svg)
 
 ## Contents
 
