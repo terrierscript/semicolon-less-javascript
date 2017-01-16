@@ -1,9 +1,12 @@
 
+<div style="text-align: center;">
+![semi-never](https://inuscript.github.io/semicolon-less-javascript/header.svg)
+</div>
+
 # Semicolon-less JavaScript
 
 > A list of resources for **semicolon-less** JavaScript coding style.
 
-![semi-never](https://inuscript.github.io/semicolon-less-javascript/header.svg)
 
 ## Contents
 
