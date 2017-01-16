@@ -57,6 +57,7 @@
       * [awesome-standard](https://github.com/feross/awesome-standard) - List of standard style
     * [eslint-config-vue](https://github.com/vuejs/eslint-config-vue)
     * [@most/eslint-config-most](https://github.com/mostjs/eslint-config-most)
+    * [eslint-config-netflix-dea](https://github.com/Netflix/eslint-config-netflix-dea)
 * JSHint
   * [options - asi](http://jshint.com/docs/options/#asi)
 
@@ -86,9 +87,11 @@ List of projects that using *semicolonless* style and related documents (style g
 * [glamor](https://github.com/threepointone/glamor)
 * [history](https://github.com/mjackson/history)
 * [karma](https://github.com/karma-runner/karma)
+* [minimatch](https://github.com/isaacs/minimatch)
 * [most](https://github.com/cujojs/most)
 * [next.js](https://github.com/zeit/next.js)
 * [node-tap](https://github.com/tapjs/node-tap)
+* [node-glob](https://github.com/isaacs/node-glob)
 * [npm](https://github.com/npm/npm)
   * [npm-coding-style - npm's "funny" coding style](https://docs.npmjs.com/misc/coding-style)
 * [NuclearJS](https://github.com/optimizely/nuclear-js)
@@ -103,6 +106,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [recompose](https://github.com/acdlite/recompose)
 * [redux](https://github.com/reactjs/redux)
   * [#1509 - Where is repo for eslint-config-rackt exists now?](https://github.com/reactjs/redux/issues/1509)
+* [redux-mock-store](https://github.com/arnaudbenard/redux-mock-store)
 * [redux-saga](https://github.com/yelouafi/redux-saga)
 * [request](https://github.com/request/request)
 * [reselect](https://github.com/reactjs/reselect)
