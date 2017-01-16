@@ -39,6 +39,7 @@
 ### Slides
 
 * [HACKING SEMICOLONS](http://slides.com/evanyou/semicolons#/)
+* [The Great Semicolon Debate](http://www.slideshare.net/anm8tr/the-great-semicolon-debate)
 
 ### Videos
 
