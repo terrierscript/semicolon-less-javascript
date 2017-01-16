@@ -1,6 +1,6 @@
-# Semicolonless JavaScript
+# Semicolon-less JavaScript
 
-> A list of resources for **semicolonless** JavaScript coding style.
+> A list of resources for **semicolon-less** JavaScript coding style.
 
 ## Contents
 
