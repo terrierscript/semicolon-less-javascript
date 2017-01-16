@@ -1,7 +1,7 @@
 
-<center>
-![semi-never](https://inuscript.github.io/semicolon-less-javascript/header.svg)
-</center>
+<div style="text-align: center;">
+  <img src="https://inuscript.github.io/semicolon-less-javascript/header.svg">
+</div>
 
 # Semicolon-less JavaScript
 
