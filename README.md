@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://inuscript.github.io/semicolon-less-javascript/header.svg?5">
+</p>
+
 # Semicolon-less JavaScript
 
 > A list of resources for **semicolon-less** JavaScript coding style.
