@@ -35,6 +35,7 @@
 * [No, you don’t need semicolons](https://medium.com/@goatslacker/no-you-dont-need-semicolons-148d936b9cf2)
 * [JavaScript Standard Style - Helpful reading](http://standardjs.com/rules.html#helpful-reading)
 * [Going semi-colon-less. OR why I’m considering the NPM Style Guide.](http://blog.namangoel.com/considering-the-npm-styleguide)
+* [JavaScript: The Semicolon Debate](https://blog.falafel.com/javascript-semicolon-debate/)
 
 ### Slides
 
