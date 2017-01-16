@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://inuscript.github.io/semicolon-less-javascript/header.svg">
+  <img src="https://inuscript.github.io/semicolon-less-javascript/header.svg?2017-01-16">
 </p>
 
 # Semicolon-less JavaScript
