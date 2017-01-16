@@ -45,7 +45,6 @@
 * [Semicolons cannot save you! - FunFunFunction #9](https://www.youtube.com/watch?v=Qlr-FGbhKaI)
 
 ## Tools
-
 ### Linting
 
 * ESLint
@@ -59,6 +58,14 @@
     * [@most/eslint-config-most](https://github.com/mostjs/eslint-config-most)
 * JSHint
   * [options - asi](http://jshint.com/docs/options/#asi)
+
+### Others
+
+* [semicolon-less.js](https://github.com/hax/semicolon-less.js/)
+* [semicolons](https://github.com/isaacs/semicolons)
+* [semi](https://github.com/yyx990803/semi)
+* [semicolon-js](https://github.com/dchest/semicolon-js)
+* [semicolon-indent](https://github.com/christophwitzko/semicolon-indent)
 
 ## Projects
 
@@ -112,6 +119,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [xtend](https://github.com/Raynos/xtend)
 * [yaml](https://github.com/tj/js-yaml)
 * [yo-yo](https://github.com/maxogden/yo-yo)
+
 
 ## License
 
