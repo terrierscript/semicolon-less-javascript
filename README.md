@@ -78,6 +78,7 @@ List of projects that using *semicolonless* style and related documents (style g
 
 * [acorn](https://github.com/ternjs/acorn)
 * [backpack](https://github.com/palmerhq/backpack)
+* [body-parser](https://github.com/expressjs/body-parser)
 * [choo](https://github.com/yoshuawuyts/choo)
 * [dat](https://github.com/datproject/dat)
 * [data-fns](https://github.com/date-fns/date-fns)
