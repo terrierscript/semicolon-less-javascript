@@ -132,7 +132,8 @@ List of projects that using *semicolonless* style and related documents (style g
 * [xtend](https://github.com/Raynos/xtend)
 * [yaml](https://github.com/tj/js-yaml)
 * [yo-yo](https://github.com/maxogden/yo-yo)
-
+* [zepto](https://github.com/madrobby/zepto)
+  * [CONTRIBUTING.md](https://github.com/madrobby/zepto/blob/master/CONTRIBUTING.md)
 
 ## License
 
