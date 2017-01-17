@@ -4,11 +4,6 @@
 > A list of resources for **semicolon-less** JavaScript coding style.
 
 
-## Contents
-
-* [Documentation](#documentation)
-* [Tools](#tools)
-* [Projects](#projects)
 
 ## Quick Start (How do we start semicolon-less style quickly?)
 
@@ -24,6 +19,12 @@
   }
 }
 ```
+
+## Contents
+
+* [Documentation](#documentation)
+* [Tools](#tools)
+* [Projects](#projects)
 
 ## Documentation
 
