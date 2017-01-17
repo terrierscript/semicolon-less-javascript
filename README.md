@@ -3,9 +3,7 @@
 
 > A list of resources for **semicolon-less** JavaScript coding style.
 
-
-
-## Quick Start (How do we start semicolon-less style quickly?)
+### Quick Start (How do we start semicolon-less style quickly?)
 
 1. Install [`eslint`](https://eslint.org/doc)
   * `$ npm install -D eslint`
