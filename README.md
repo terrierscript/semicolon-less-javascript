@@ -118,6 +118,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [reselect](https://github.com/reactjs/reselect)
 * [Riot](https://github.com/riot/riot)
 * [sheetify](https://github.com/stackcss/sheetify)
+* [shrimpit](https://github.com/yamafaktory/shrimpit)
 * [slate](https://github.com/ianstormtaylor/slate)
 * [stylelint](https://github.com/stylelint/stylelint)
 * [styled-components](https://github.com/styled-components/styled-components)
