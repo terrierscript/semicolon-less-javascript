@@ -78,6 +78,7 @@
 List of projects that using *semicolonless* style and related documents (style guide / pull request / issue).
 
 * [acorn](https://github.com/ternjs/acorn)
+* [basic-auth](https://github.com/jshttp/basic-auth)
 * [backpack](https://github.com/palmerhq/backpack)
 * [body-parser](https://github.com/expressjs/body-parser)
 * [choo](https://github.com/yoshuawuyts/choo)
