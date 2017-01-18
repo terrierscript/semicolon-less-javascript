@@ -61,6 +61,7 @@
     * [eslint-config-vue](https://github.com/vuejs/eslint-config-vue)
     * [@most/eslint-config-most](https://github.com/mostjs/eslint-config-most)
     * [eslint-config-netflix-dea](https://github.com/Netflix/eslint-config-netflix-dea)
+    * [eslint-config-rackt](https://www.npmjs.com/package/eslint-config-rackt) (npm published only)
 * JSHint
   * [options - asi](http://jshint.com/docs/options/#asi)
 
