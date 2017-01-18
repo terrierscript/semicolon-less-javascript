@@ -87,6 +87,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [envify](https://github.com/hughsk/envify)
 * [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
 * [expect](https://github.com/mjackson/expect)
+* [fela](https://github.com/rofrischmann/fela)
 * [fs-extra](https://github.com/jprichardson/node-fs-extra)
 * [glamor](https://github.com/threepointone/glamor)
 * [history](https://github.com/mjackson/history)
