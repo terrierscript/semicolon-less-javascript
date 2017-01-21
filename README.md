@@ -1,7 +1,7 @@
 
 # Semicolon-less JavaScript
 
-> A list of resources for **semicolon-less** JavaScript coding style.
+> A list of resources for **semicolon-less** JavaScript (TypeScript) coding style.
 
 ### Quick Start (How do we start semicolon-less style quickly?)
 
@@ -85,6 +85,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [choo](https://github.com/yoshuawuyts/choo)
 * [dat](https://github.com/datproject/dat)
 * [data-fns](https://github.com/date-fns/date-fns)
+* [danger.js](https://github.com/danger/danger-js) (TypeScript)
 * [deku](https://github.com/anthonyshort/deku)
 * [dotenv](https://github.com/motdotla/dotenv)
 * [envify](https://github.com/hughsk/envify)
