@@ -96,6 +96,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [glamor](https://github.com/threepointone/glamor)
 * [history](https://github.com/mjackson/history)
 * [karma](https://github.com/karma-runner/karma)
+* [Mithril](https://github.com/lhorie/mithril.js)
 * [minimatch](https://github.com/isaacs/minimatch)
 * [most](https://github.com/cujojs/most)
 * [moxios](https://github.com/mzabriskie/moxios)
