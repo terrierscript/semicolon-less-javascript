@@ -116,6 +116,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [react-fix-it](https://github.com/MicheleBertoli/react-fix-it)
 * [react-form](https://github.com/tannerlinsley/react-form)
 * [react-media](https://github.com/ReactTraining/react-media)
+* [react-redux](https://github.com/reactjs/react-redux)
 * [react-router](https://github.com/ReactTraining/react-router)
 * [react-virtualized](https://github.com/bvaughn/react-virtualized)
 * [recompose](https://github.com/acdlite/recompose)
