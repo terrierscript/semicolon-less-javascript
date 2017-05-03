@@ -100,6 +100,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [hyperscript](https://github.com/dominictarr/hyperscript)
 * [junctions](https://github.com/jamesknelson/junctions)
 * [karma](https://github.com/karma-runner/karma)
+* [kefir](https://github.com/rpominov/kefir)
 * [Mithril](https://github.com/lhorie/mithril.js)
 * [minimatch](https://github.com/isaacs/minimatch)
 * [most](https://github.com/cujojs/most)
