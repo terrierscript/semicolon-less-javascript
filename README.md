@@ -105,6 +105,7 @@ List of projects that using *semicolonless* style and related documents (style g
 * [minimatch](https://github.com/isaacs/minimatch)
 * [most](https://github.com/cujojs/most)
 * [moxios](https://github.com/mzabriskie/moxios)
+* [MQTT.js](https://github.com/mqttjs/MQTT.js)
 * [next.js](https://github.com/zeit/next.js)
 * [node-tap](https://github.com/tapjs/node-tap)
 * [node-glob](https://github.com/isaacs/node-glob)
